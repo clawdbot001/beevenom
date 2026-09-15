@@ -23,14 +23,14 @@ export const OFFER = {
   ordersWebhookUrl: "https://script.google.com/macros/s/AKfycbyyz3rUfI174tbEMbsLPfemQMX3C625aiQU9Rxo_hSdGE_IcwM6H-hzbjcTUnx9DI_Efw/exec",
 
   images: {
-    hero: "/images/bee-venom-cream.jpg",
-    gallery: ["/images/bee-venom-cream.jpg"],
-    benefit1: "/images/benefit-lift.png",
-    benefit2: "/images/benefit-wrinkles.png",
-    benefit3: "/images/benefit-bags.png",
-    results: "/images/results-before-after.png?v=2",
-    science: "/images/science-bee-collagen.png",
-    formula: "/images/formula-honey-cream.png",
+    hero: "/beevenom/images/bee-venom-cream.jpg",
+    gallery: ["/beevenom/images/bee-venom-cream.jpg"],
+    benefit1: "/beevenom/images/benefit-lift.png",
+    benefit2: "/beevenom/images/benefit-wrinkles.png",
+    benefit3: "/beevenom/images/benefit-bags.png",
+    results: "/beevenom/images/results-before-after.png?v=2",
+    science: "/beevenom/images/science-bee-collagen.png",
+    formula: "/beevenom/images/formula-honey-cream.png",
   },
 
   ratings: { average: 4.9, count: 22961 },
@@ -88,30 +88,30 @@ export const OFFER = {
   ],
 
   concerns: [
-    { key: "eye", label: "Bolsas bajo los ojos", image: "/images/concern-bags.png" },
-    { key: "sparkles", label: "Arrugas y líneas finas", image: "/images/concern-wrinkles.png" },
-    { key: "chevronDown", label: "Párpados caídos", image: "/images/concern-eyelids.png" },
-    { key: "scan", label: "Bigote chino", image: "/images/concern-smile.png" },
-    { key: "feather", label: "Patas de gallo", image: "/images/concern-crowsfeet.png" },
+    { key: "eye", label: "Bolsas bajo los ojos", image: "/beevenom/images/concern-bags.png" },
+    { key: "sparkles", label: "Arrugas y líneas finas", image: "/beevenom/images/concern-wrinkles.png" },
+    { key: "chevronDown", label: "Párpados caídos", image: "/beevenom/images/concern-eyelids.png" },
+    { key: "scan", label: "Bigote chino", image: "/beevenom/images/concern-smile.png" },
+    { key: "feather", label: "Patas de gallo", image: "/beevenom/images/concern-crowsfeet.png" },
   ],
 
   testimonials: [
     {
       name: "Patricia G.",
       city: "Bogotá",
-      avatar: "/images/testimonial-1.png",
+      avatar: "/beevenom/images/testimonial-1.png",
       text: "Tenía miedo de que no funcionara, pero en 3 minutos se notó la diferencia. ¡Mi piel se ve increíble!",
     },
     {
       name: "Carolina M.",
       city: "Medellín",
-      avatar: "/images/testimonial-2.png",
+      avatar: "/beevenom/images/testimonial-2.png",
       text: "La pedí por contra entrega y llegó rapidísimo. La uso cada mañana antes del maquillaje.",
     },
     {
       name: "Luz D.",
       city: "Barranquilla",
-      avatar: "/images/model-applying.png",
+      avatar: "/beevenom/images/model-applying.png",
       text: "El veneno de abeja de verdad funciona. Siento un estiramiento inmediato, sin verse rígida.",
     },
     {
