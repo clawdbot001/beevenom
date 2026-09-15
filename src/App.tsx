@@ -8,7 +8,7 @@ import { routers } from "./router";
 const queryClient = new QueryClient();
 
 const App = () => {
-  const router = createBrowserRouter(routers);
+  const router = createBrowserRouter(routers, { basename: "/beevenom" });
   return (
     <QueryClientProvider client={queryClient}>
       <TooltipProvider>
