@@ -1,0 +1,102 @@
+{
+  "announcement.cod": "Pago contra entrega en toda Colombia",
+  "announcement.freeShipping": "Envío gratis en tu pedido",
+  "announcement.installments": "Hasta 3 cuotas sin interés",
+  "announcement.guarantee": "Garantía de 90 días",
+
+  "hero.badge": "Antiarrugas instantáneo",
+  "hero.badgeSub": "Sin agujas · Sin procedimientos",
+  "hero.reviews": "valoraciones",
+  "hero.priceNormal": "Precio normal",
+  "hero.pricePromo": "Precio promocional",
+  "hero.installments": "o 3 cuotas de {{price}} sin interés",
+  "hero.cta": "Pedir ahora",
+  "hero.ctaNote": "Paga al recibir en tu puerta",
+  "hero.guarantee": "Garantía de 90 días · Compra 100% segura",
+  "hero.urgencyViewers": "{{count}} personas están viendo esto ahora",
+  "hero.urgencyStock": "Quedan {{count}} unidades",
+  "hero.countdownTitle": "La oferta termina en",
+  "hero.countdownNote": "Precio especial válido por tiempo limitado",
+
+  "countdown.days": "Días",
+  "countdown.hours": "Horas",
+  "countdown.minutes": "Minutos",
+  "countdown.seconds": "Segundos",
+
+  "trust.cod": "Pago contra entrega",
+  "trust.shipping": "Envío a todo Colombia",
+  "trust.return": "Devolución en 90 días",
+  "trust.fast": "Resultados en minutos",
+
+  "reviews.title": "Lo que dicen nuestras clientas",
+  "reviews.summary": "{{rating}} · {{count}} valoraciones verificadas",
+  "reviews.verified": "Compra verificada",
+
+  "benefits.kicker": "Por qué funciona",
+  "benefits.title": "Resultados visibles desde la primera aplicación",
+
+  "stats.kicker": "Resultados comprobados",
+  "stats.title": "Miles de mujeres ya lo comprobaron",
+  "stats.subtitle": "Estudio de percepción con usuarias reales tras la primera semana de uso.",
+
+  "science.cta": "Quiero probarlo",
+
+  "concerns.kicker": "Para tu piel",
+  "concerns.title": "Diseñada para las preocupaciones de tu piel",
+
+  "results.kicker": "Resultados profesionales en instantes",
+  "results.title": "y sin salir de casa",
+  "results.text": "Nota resultados dramáticos en minutos, sin procedimientos invasivos, sin dolor, irritación, hinchazón ni enrojecimiento. Con una sola aplicación verás una apariencia renovada y más joven, sin aspecto artificial.",
+  "results.before": "Antes",
+  "results.after": "Después",
+
+  "ingredients.kicker": "Qué contiene",
+  "ingredients.title": "Todo lo que tu piel necesita",
+
+  "testimonials.kicker": "Clientas reales",
+  "testimonials.title": "Clientas felices en toda Colombia",
+
+  "order.kicker": "Último paso",
+  "order.title": "Haz tu pedido y paga al recibir",
+  "order.subtitle": "Completa tus datos y te contactaremos por WhatsApp para confirmar tu pedido.",
+  "order.name": "Nombre completo",
+  "order.phone": "WhatsApp / Teléfono",
+  "order.city": "Ciudad y departamento",
+  "order.address": "Dirección de entrega",
+  "order.quantity": "Cantidad",
+  "order.total": "Total a pagar",
+  "order.unitPrice": "{{price}} c/u",
+  "order.submit": "Confirmar mi pedido",
+  "order.note": "Pagas solo cuando recibes el producto en tu puerta. Sin anticipos.",
+  "order.success.title": "¡Gracias por tu pedido!",
+  "order.success.text": "Tu pedido fue registrado correctamente. Te contactaremos por WhatsApp para confirmarlo.",
+  "order.success.new": "Hacer otro pedido",
+  "order.error.title": "Ups, no pudimos registrar tu pedido",
+  "order.error.text": "Intenta de nuevo o envíanos tu pedido por WhatsApp.",
+  "order.error.retry": "Reintentar",
+  "order.error.whatsapp": "Enviar por WhatsApp",
+  "order.error.required": "Completa este campo",
+  "order.error.phone": "Ingresa un número de WhatsApp válido",
+  "order.error.minName": "Ingresa tu nombre completo",
+  "order.error.minCity": "Ingresa tu ciudad y departamento",
+  "order.error.minAddress": "Ingresa tu dirección de entrega",
+
+  "faq.kicker": "Resolvemos tus dudas",
+  "faq.title": "Preguntas frecuentes",
+
+  "sticky.cta": "Pedir ahora",
+  "sticky.note": "Pago contra entrega",
+
+  "footer.rights": "© {{year}} {{brand}}. Todos los derechos reservados.",
+  "footer.disclaimer": "Este producto no es un medicamento y no pretende diagnosticar, tratar, curar o prevenir ninguna enfermedad. Los resultados pueden variar de persona a persona.",
+  "footer.privacy": "Política de privacidad",
+  "footer.terms": "Términos y condiciones",
+  "footer.refunds": "Cambios y devoluciones",
+  "footer.payments": "Medios de pago: efectivo contra entrega",
+
+  "notFound.title": "¡Oops! Página no encontrada",
+  "notFound.actions.backHome": "Volver al inicio",
+
+  "legal.updated": "Última actualización",
+  "legal.back": "Volver a la oferta"
+}
