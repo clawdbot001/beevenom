@@ -5,7 +5,7 @@
 export const OFFER = {
   brandName: "BeeVenom",
   productName: "Crema Botox Bee Venom",
-  productTagline: "Antiarrugas instantáneo · Sin agujas",
+  productTagline: "Antiarrugas instantáneo · Sin agujas",         
   weight: "120g",
 
   // Precios en pesos colombianos (COP)
@@ -16,7 +16,7 @@ export const OFFER = {
   // Número de WhatsApp que recibe los pedidos.
   // Formato internacional: código de país + número, sin "+" ni espacios.
   // Ejemplo: Colombia = "57" + número → "573001234567"
-  whatsappNumber: "573000000000", // TODO: reemplazar por el número real
+  whatsappNumber: "573114841509", // TODO: reemplazar por el número real
 
   // URL del Web App de Google Apps Script que guarda los pedidos en Google Sheets.
   // Debe terminar en "/exec". Sin esta URL, el formulario muestra el error con fallback por WhatsApp.
