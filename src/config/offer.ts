@@ -9,8 +9,8 @@ export const OFFER = {
   weight: "120g",
 
   // Precios en pesos colombianos (COP)
-  priceFrom: 69900,
-  priceNow: 49900,
+  priceFrom: 89900,
+  priceNow: 59900,
   installments: 3,
 
   // Número de WhatsApp que recibe los pedidos.
